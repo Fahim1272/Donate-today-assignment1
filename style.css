@@ -1,9 +1,11 @@
+
 body {
     margin: 0 auto;
     font-family: 'Poppins', sans-serif;
     font-family: 'Ubuntu', sans-serif;
 }
 
+/* first Section------------------------------------ */
 .first_sec {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
@@ -40,6 +42,7 @@ a {
     font-weight: bold;
 }
 
+/* Second Section------------------------------------ */
 .second_sec {
     width: 50%;
     height: 300px;
@@ -105,4 +108,61 @@ h2 {
     text-align: center;
     opacity: 0.5;
     margin-bottom: 30px;
+}
+/* Third Section----------------------------- */
+.third_sec {
+
+    /* text-align: center; */
+    width: 100%;
+    margin-top: 30px;
+    height: 600px;
+    margin-bottom: 50px;
+}
+
+.section-div1 {
+    height: 150px;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 30px;
+
+
+}
+
+.main_div {
+    width: 70%;
+    display: flex;
+    margin: 0 auto;
+}
+
+.icon {
+    margin-top: 30px;
+    height: 50px;
+    width: 50px;
+}
+
+.mini_para {
+    text-align: left;
+
+}
+
+.first_div {
+    /* background-color: rgb(182, 250, 252); */
+    height: 300px;
+    width: 30%;
+    /* margin: 0 auto; */
+    border-radius: 5px;
+    padding: 30px;
+    margin-left: 20px;
+}
+
+#bg-color-blk1 {
+    background-color: rgb(182, 250, 252);
+}
+
+#bg-color-blk2 {
+    background-color: rgb(238, 217, 210);
+}
+
+#bg-color-blk3 {
+    background-color: rgb(238, 242, 200);
 }
