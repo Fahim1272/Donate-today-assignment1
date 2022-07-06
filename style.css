@@ -190,8 +190,8 @@ h2 {
 
 .sec4_div1 {
     height: auto;
-    width: 50%;
-    padding: 5%;
+    width: 55%;
+    padding: 10%;
     padding-top: 0%;
     margin-left: 20px;
     /* background-color: aquamarine; */
@@ -200,7 +200,7 @@ h2 {
 
 .sec4_div2 {
     height: auto;
-    width: 50%;
+    width: 45%;
     margin-left: 10px;
     /* background-color: rgb(96, 89, 79); */
 
@@ -208,7 +208,7 @@ h2 {
 
 .sec4_div2 img {
     width: 100%;
-    border-radius: 10px;
+    border-radius: 5px 5px 5px 5px;
     padding-top: 70px;
 
 
