@@ -42,13 +42,14 @@ a {
 
 .second_sec {
     width: 50%;
+    height: 300px;
     margin: 0 auto;
     text-align: center;
 }
 
 .section-div {
     display: flex;
-    height: 300px;
+    height: 150px;
     width: 70%;
     margin: 0 auto;
 }
@@ -64,6 +65,7 @@ a {
     text-align: center;
     /* border: 1px solid green; */
     margin-left: 5px;
+    margin-top: 20px;
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -79,4 +81,28 @@ a {
     height: 78px;
     width: 78px;
     color: midnightblue;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.para1 {
+    color: rgb(108, 98, 98);
+    font-weight: 400;
+}
+
+.input1 {
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color: grey;
+    width: 100%;
+    width: 70%;
+    margin: 0 auto;
+}
+
+[placeholder] {
+    text-align: center;
+    opacity: 0.5;
+    margin-bottom: 30px;
 }
