@@ -1,0 +1,82 @@
+body {
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.first_sec {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 100%;
+    height: 600px;
+    background-color: rgb(0, 0, 0, 0.5);
+    background-blend-mode: darken, luminosity;
+
+
+}
+
+h1 {
+    font-size: 70px;
+    color: white;
+}
+
+.div1 {
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    width: 50%;
+    height: 600px;
+    padding: 70px 0;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    background-color: midnightblue;
+    border-radius: 5px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.second_sec {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.section-div {
+    display: flex;
+    height: 300px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.block {
+    height: 80px;
+    width: 80px;
+    background-color: whitesmoke;
+    color: rgb(108, 98, 98);
+    ;
+    font-weight: bold;
+    padding-left: 5px;
+    text-align: center;
+    /* border: 1px solid green; */
+    margin-left: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+
+
+}
+
+.blk-1 {
+    border: 2px solid midnightblue;
+    background-color: #d1d4da;
+    height: 78px;
+    width: 78px;
+    color: midnightblue;
+}
